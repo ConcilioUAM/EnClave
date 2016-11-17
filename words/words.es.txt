@@ -26,6 +26,7 @@ casa
 casco
 caña
 cebra
+celda
 cereal
 cerilla
 cielo
@@ -38,6 +39,7 @@ crema
 cristal
 cuerda
 diente
+dragon
 eco
 estrella
 flor
@@ -65,6 +67,7 @@ luz
 madera
 mango
 mano
+manta
 manzana
 mar
 marea
@@ -97,7 +100,9 @@ perro
 pico
 pie
 pierna
+pila
 piloto
+placa
 planta
 playa
 pollo
@@ -111,12 +116,14 @@ queso
 radar
 raiz
 raton
+rayo
 red
 regla
 rey
 risa
 roca
 rojo
+rubio
 rueda
 sal
 salsa
@@ -131,9 +138,11 @@ tabla
 tiempo
 tierra
 tigre
+tijera
 traje
 trigo
 vaca
+via
 vida
 vino
 voto
