@@ -1,7 +1,5 @@
-aceite
 agua
 ala
-alfiler
 amigo
 angel
 antena
@@ -10,13 +8,11 @@ arbol
 arena
 atomo
 banco
-banda
 barco
 barra
 boca
 bola
 bomba
-bosque
 bunker
 bus
 caballo
@@ -25,8 +21,6 @@ caja
 calor
 canal
 capital
-carrera
-carta
 cartel
 casa
 casco
@@ -45,11 +39,9 @@ crema
 cristal
 cuerda
 diente
-digito
 dragon
 eco
 estrella
-flecha
 flor
 frio
 fuego
@@ -102,7 +94,6 @@ pan
 pantalla
 papel
 parque
-pasta
 pecho
 pelo
 perro
@@ -128,7 +119,6 @@ raton
 rayo
 red
 regla
-reloj
 rey
 risa
 roca
