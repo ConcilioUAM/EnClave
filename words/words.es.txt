@@ -108,6 +108,7 @@ manta
 manzana
 mar
 marca
+marea
 masa
 mesa
 metal
